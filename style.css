@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(13, 62, 62);
+}
+
+.container {
+  width: 360px;
+  padding: 33px;
+  text-align: center;
+  background-color: white;
+  margin-left: 35%;
+  margin-top: 5px;
+}
