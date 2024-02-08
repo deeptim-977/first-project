@@ -52,5 +52,6 @@ function saveEditedItem() {
   localStorage.setItem("todoItems", JSON.stringify(items));
   displayTodoList();
   $('#editModal').modal('hide');
+  <p></p>
 }
 displayTodoList();
